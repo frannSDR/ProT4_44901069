@@ -1,5 +1,6 @@
 {
   "name": "prot4_44901069",
+  "type": "module",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
